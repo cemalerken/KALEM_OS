@@ -1,1 +1,1 @@
-# YERL-LET-M-S-STEM-
+# HİBRİT YERLİ İŞLETİM SİSTEMİ
